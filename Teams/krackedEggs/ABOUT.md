@@ -3,7 +3,7 @@ About team
 
 | Abdul Rauf 
 |--- |--- |--- |---
-| ![Abdul Rauf](https://www.dropbox.com/s/d8wcp3xr2u48ym1/Abdul-Rauf400x500.png?dl=0) | 
+| ![Abdul Rauf](https://media.licdn.com/mpr/mpr/shrink_500_500/p/1/005/019/207/2205b0c.jpg) | 
 
 I am an Electrical Engineer from SEECS,NUST. I am an electronics, software, networking and information security enthusiast
 
