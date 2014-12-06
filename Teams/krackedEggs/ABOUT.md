@@ -7,6 +7,11 @@ About team
 
 I am an Electrical Engineer from SEECS,NUST. I am an electronics, software, networking and information security enthusiast
 
+Websites
+=======
+[about me](http://armujahid.me)
+[linkedIn](http://pk.linkedin.com/in/armujahid/)
+[krackedEggs](http://krackedeggs.org)
 
 About my skills
 =======
